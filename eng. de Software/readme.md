@@ -7,3 +7,6 @@ growth.
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
 o texto destaca como a engenharia de software transcende a programação ao considerar aspectos como tempo, escala e compromissos, e como essa perspectiva mais ampla é fundamental para projetar, desenvolver e manter sistemas de software eficazes e bem-sucedidos.
+diferenciar requisitos funcionais e não funcionais, por exemplo
+Escolha outro exemplo e faça a mesma atividade
+dentre os serviços de carona compartilhada, a Uber e a 99 taxi sao aplicações semelhantes, porem a uber tem um alcance muito maior
