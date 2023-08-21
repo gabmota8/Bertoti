@@ -83,5 +83,9 @@ Certamente, vou elaborar um exemplo de acerto (uma situação onde a heurística
     - Erro: Um sistema de reservas de restaurantes exibe um erro genérico sem informações sobre como resolver um problema ao tentar fazer uma reserva.
    
       Atividade 4 : Fazer um diagrama de caso de usocom os requisitos funcionais
+
+![SISTEMA GABRIEL DE BUSCA DE EMPREGO](https://github.com/gabmota8/Bertoti/assets/44507787/249ba9dd-8095-4ca5-a484-8a88c08d449a)
+
+      
       
 
