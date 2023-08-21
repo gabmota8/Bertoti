@@ -6,13 +6,16 @@ higher-stakes outcomes, often based on imprecise estimates of time and
 growth.
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
+Atividade 1 escreva com suas palavras o que entendeu do texto:
 o texto destaca como a engenharia de software transcende a programação ao considerar aspectos como tempo, escala e compromissos, e como essa perspectiva mais ampla é fundamental para projetar, desenvolver e manter sistemas de software eficazes e bem-sucedidos.
+
+Atividade 2 
 diferenciar requisitos funcionais e não funcionais, por exemplo
 Escolha outro exemplo e faça a mesma atividade
 dentre os serviços de carona compartilhada, a Uber e a 99 taxi sao aplicações semelhantes, porem a uber tem um alcance muito maior
+cite 3 casos de trade off
 
-
-
+Atividade 3: aponte dentro das 10 Heurisiticas da usabilidade 1 acerto e 1 erro .
 As "10 Heurísticas de Usabilidade" são um conjunto de princípios propostos por Jakob Nielsen, um renomado especialista em usabilidade, para avaliar a qualidade das interfaces de usuário. Essas heurísticas são diretrizes que os designers de interfaces podem seguir para criar produtos mais usáveis e eficazes. Aqui estão as 10 heurísticas de usabilidade:
 
 1. **Visibilidade do status do sistema:** O sistema deve manter os usuários informados sobre o que está acontecendo, fornecendo feedback adequado em tempo hábil sobre suas ações e o estado atual.
@@ -78,4 +81,7 @@ Certamente, vou elaborar um exemplo de acerto (uma situação onde a heurística
 10. **Reconhecimento, diagnóstico e recuperação de erros:**
     - Acerto: Um aplicativo de gerenciamento financeiro apresenta uma mensagem clara e sugere possíveis soluções quando o usuário tenta inserir uma transação duplicada.
     - Erro: Um sistema de reservas de restaurantes exibe um erro genérico sem informações sobre como resolver um problema ao tentar fazer uma reserva.
+   
+      Atividade 4 : Fazer um diagrama de caso de usocom os requisitos funcionais
+      
 
