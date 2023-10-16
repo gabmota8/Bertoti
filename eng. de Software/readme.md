@@ -82,9 +82,10 @@ Certamente, vou elaborar um exemplo de acerto (uma situação onde a heurística
     - Acerto: Um aplicativo de gerenciamento financeiro apresenta uma mensagem clara e sugere possíveis soluções quando o usuário tenta inserir uma transação duplicada.
     - Erro: Um sistema de reservas de restaurantes exibe um erro genérico sem informações sobre como resolver um problema ao tentar fazer uma reserva.
    
-      Atividade 4 : Fazer um diagrama de caso de usocom os requisitos funcionais
+      Atividade 4 : Fazer um diagrama de caso de uso com os requisitos funcionais
 
-![SISTEMA GABRIEL DE BUSCA DE EMPREGO](https://github.com/gabmota8/Bertoti/assets/44507787/249ba9dd-8095-4ca5-a484-8a88c08d449a)
+![image](https://github.com/gabmota8/Bertoti/assets/44507787/5a786590-859c-4cb4-8a07-b17f41db0c3a)
+
 
       
       
