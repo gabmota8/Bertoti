@@ -93,7 +93,9 @@ redija um acerto e erro de cada um dos exemplos das heuristicas
    
       Atividade 4 : Fazer um diagrama de caso de uso com os requisitos funcionais
 
-![image](https://github.com/gabmota8/Bertoti/assets/44507787/5a786590-859c-4cb4-8a07-b17f41db0c3a)
+[SISTEMA GABRIEL DE BUSCA DE EMPREGO.pdf](https://github.com/gabmota8/Bertoti/files/13323935/SISTEMA.GABRIEL.DE.BUSCA.DE.EMPREGO.pdf)
+
+
 
 Ativadade 5: criar uma Classe UML do nosso caso de uso.
 
