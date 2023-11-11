@@ -1,3 +1,6 @@
+REPOSITORIO ENGENHARIA DE SOFTWARE
+11/08
+
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. 
 On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. 
 In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as 
@@ -9,6 +12,9 @@ Within Google, we sometimes say, “Software engineering is programming integrat
 Atividade 1 
 Escreva com suas palavras o que entendeu do texto:
 o texto destaca como a engenharia de software transcende a programação ao considerar aspectos como tempo, escala e compromissos, e como essa perspectiva mais ampla é fundamental para projetar, desenvolver e manter sistemas de software eficazes e bem-sucedidos.
+
+14/08
+
 
 Atividade 2 
 diferenciar requisitos funcionais e não funcionais, por exemplo
@@ -90,6 +96,9 @@ redija um acerto e erro de cada um dos exemplos das heuristicas
 10. **Reconhecimento, diagnóstico e recuperação de erros:**
     - Acerto: Um aplicativo de gerenciamento financeiro apresenta uma mensagem clara e sugere possíveis soluções quando o usuário tenta inserir uma transação duplicada.
     - Erro: Um sistema de reservas de restaurantes exibe um erro genérico sem informações sobre como resolver um problema ao tentar fazer uma reserva.
+
+      
+ 21/08
    
       Atividade 4 : Fazer um diagrama de caso de uso com os requisitos funcionais
 
