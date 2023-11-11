@@ -93,7 +93,8 @@ redija um acerto e erro de cada um dos exemplos das heuristicas
    
       Atividade 4 : Fazer um diagrama de caso de uso com os requisitos funcionais
 
-[SISTEMA GABRIEL DE BUSCA DE EMPREGO.pdf](https://github.com/gabmota8/Bertoti/files/13323935/SISTEMA.GABRIEL.DE.BUSCA.DE.EMPREGO.pdf)
+
+![SISTEMA GABRIEL DE BUSCA DE EMPREGO](https://github.com/gabmota8/Bertoti/assets/44507787/46a62c05-bf82-4552-9bc6-48147a5bb9a2)
 
 
 
