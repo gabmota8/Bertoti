@@ -97,10 +97,12 @@ redija um acerto e erro de cada um dos exemplos das heuristicas
 
 Ativadade 5: criar uma Classe UML do nosso caso de uso.
 
-https://lucid.app/lucidchart/a40cd3f8-d622-444c-9705-c0da30f8bf4f/edit?viewport_loc=-194%2C7%2C1997%2C923%2CHWEp-vi-RSFO&invitationId=inv_1640d07d-6feb-462a-9a4a-db4cdee43db0
 
 
 
+
+
+![Classe UML](https://github.com/gabmota8/Bertoti/assets/44507787/d72b55f6-5bca-4106-a69e-b59f34b7f89e)
 
       
       
