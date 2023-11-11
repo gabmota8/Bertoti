@@ -6,16 +6,25 @@ higher-stakes outcomes, often based on imprecise estimates of time and
 growth.
 Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming.
 
-Atividade 1 escreva com suas palavras o que entendeu do texto:
+Atividade 1 
+Escreva com suas palavras o que entendeu do texto:
 o texto destaca como a engenharia de software transcende a programação ao considerar aspectos como tempo, escala e compromissos, e como essa perspectiva mais ampla é fundamental para projetar, desenvolver e manter sistemas de software eficazes e bem-sucedidos.
 
 Atividade 2 
 diferenciar requisitos funcionais e não funcionais, por exemplo
 Escolha outro exemplo e faça a mesma atividade
 dentre os serviços de carona compartilhada, a Uber e a 99 taxi sao aplicações semelhantes, porem a uber tem um alcance muito maior
+
 cite 3 casos de trade off
 
-Atividade 3: aponte dentro das 10 Heurisiticas da usabilidade 1 acerto e 1 erro .
+1. **Comércio Eletrônico - Velocidade de Entrega vs. Custo:** Uma empresa de comércio eletrônico pode enfrentar o trade-off entre oferecer opções de entrega rápida e manter custos baixos. Garantir a entrega no mesmo dia pode aumentar significativamente os custos de logística, enquanto o frete padrão pode ser mais barato, porém mais lento. A empresa precisa decidir o equilíbrio ideal entre a satisfação do cliente (entrega rápida) e a lucratividade (custos de envio mais baixos).
+
+2. **Desenvolvimento de Software - Velocidade vs. Qualidade:** Uma equipe de desenvolvimento de software pode enfrentar o trade-off entre lançar um produto no mercado o mais rápido possível e garantir uma qualidade excepcional. Desenvolver um produto rapidamente pode significar cortar testes extensivos ou aprimoramentos de recursos, o que poderia comprometer a qualidade. Encontrar um equilíbrio entre lançamento oportuno e qualidade é crucial.
+
+3. **Tecnologia - Portabilidade vs. Desempenho:** Ao escolher um dispositivo, como um laptop ou celular, os consumidores podem se deparar com o trade-off entre portabilidade e desempenho. Dispositivos mais leves e portáteis podem sacrificar o desempenho em comparação com modelos mais pesados e robustos, que geralmente têm mais poder de processamento. Decidir entre a mobilidade e o desempenho necessário para determinadas tarefas é um trade-off comum na escolha de dispositivos tecnológicos.
+
+Atividade 3: 
+Aponte dentro das 10 Heurisiticas da usabilidade 1 acerto e 1 erro .
 As "10 Heurísticas de Usabilidade" são um conjunto de princípios propostos por Jakob Nielsen, um renomado especialista em usabilidade, para avaliar a qualidade das interfaces de usuário. Essas heurísticas são diretrizes que os designers de interfaces podem seguir para criar produtos mais usáveis e eficazes. Aqui estão as 10 heurísticas de usabilidade:
 
 1. **Visibilidade do status do sistema:** O sistema deve manter os usuários informados sobre o que está acontecendo, fornecendo feedback adequado em tempo hábil sobre suas ações e o estado atual.
@@ -40,7 +49,7 @@ As "10 Heurísticas de Usabilidade" são um conjunto de princípios propostos po
 
 redija um acerto e erro de cada um dos exemplos das heuristicas
 
-Certamente, vou elaborar um exemplo de acerto (uma situação onde a heurística é aplicada corretamente) e um exemplo de erro (uma situação em que a heurística não é seguida adequadamente) para cada uma das "10 Heurísticas de Usabilidade":
+
 
 1. **Visibilidade do status do sistema:**
    - Acerto: Quando um aplicativo de mensagens exibe um indicador de "mensagem enviada" imediatamente após o usuário enviar uma mensagem.
@@ -85,6 +94,12 @@ Certamente, vou elaborar um exemplo de acerto (uma situação onde a heurística
       Atividade 4 : Fazer um diagrama de caso de uso com os requisitos funcionais
 
 ![image](https://github.com/gabmota8/Bertoti/assets/44507787/5a786590-859c-4cb4-8a07-b17f41db0c3a)
+
+Ativadade 5: criar uma Classe UML do nosso caso de uso.
+
+https://lucid.app/lucidchart/a40cd3f8-d622-444c-9705-c0da30f8bf4f/edit?viewport_loc=-194%2C7%2C1997%2C923%2CHWEp-vi-RSFO&invitationId=inv_1640d07d-6feb-462a-9a4a-db4cdee43db0
+
+
 
 
       
