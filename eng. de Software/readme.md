@@ -42,14 +42,16 @@ O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo e
 
 2. **Correspondência entre o sistema e o mundo real:** A linguagem utilizada na interface deve refletir os termos, conceitos e processos familiares aos usuários, em vez de usar jargões técnicos ou desconhecidos.
 Para estabelecer essa comunicação, é possível utilizar ícones, por exemplo, que representam uma determinada ação. Como o símbolo de telefone nos smartphones que significa, geralmente, fazer ligações.
-![exemplo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/d4ddf722-3974-42ea-9b77-f6c795f87e03)
+
+![exem![exemplo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/2f1754fc-6b98-4399-95b9-dddcfa391651)
+plo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/d4ddf722-3974-42ea-9b77-f6c795f87e03)
 
 
-3. **Controle e liberdade do usuário:** Os usuários devem ter a capacidade de desfazer ações indesejadas ou errôneas e explorar livremente o sistema sem consequências irreversíveis.
+4. **Controle e liberdade do usuário:** Os usuários devem ter a capacidade de desfazer ações indesejadas ou errôneas e explorar livremente o sistema sem consequências irreversíveis.
  No entanto, é preciso levar em consideração que o usuário pode tomar uma ação errada ou se arrepender da decisão que tomou. Por isso, é necessário pensar em funções como undo e redo para que o usuário consiga desfazer e refazer suas ações conforme suas necessidades.
 ![exemplo 3 de heuristica webp](https://github.com/gabmota8/Bertoti/assets/44507787/cc1aad4c-2426-4b48-9753-5a406b94ec45)
 
-4. **Consistência e padrões:** Elementos da interface, como cores, ícones e palavras, devem ser consistentes em todo o sistema para criar uma experiência coerente e familiar.
+5. **Consistência e padrões:** Elementos da interface, como cores, ícones e palavras, devem ser consistentes em todo o sistema para criar uma experiência coerente e familiar.
 Nesse sentido, durante a interação, os usuários não devem ter dúvidas sobre o significado das palavras, ícones ou símbolos utilizados.
 
 Portanto, é fundamental que uma interface siga as convenções da plataforma, mantendo padrões de interação em diversos e diferenciados contextos.
