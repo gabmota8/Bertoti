@@ -37,19 +37,7 @@ As "10 Heurísticas de Usabilidade" são um conjunto de princípios propostos po
 
 O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![exemplo+1+de+heuristica png](https://github.com/gabmota8/Bertoti/assets/44507787/06a3fd42-30d5-4079-b61e-f6919d44fc5e)
 
 
 2. **Correspondência entre o sistema e o mundo real:** A linguagem utilizada na interface deve refletir os termos, conceitos e processos familiares aos usuários, em vez de usar jargões técnicos ou desconhecidos.
