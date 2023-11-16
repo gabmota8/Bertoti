@@ -44,8 +44,9 @@ O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo e
 Para estabelecer essa comunicação, é possível utilizar ícones, por exemplo, que representam uma determinada ação. Como o símbolo de telefone nos smartphones que significa, geralmente, fazer ligações.
 
 
+![exemplo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/fe137407-5806-4cc6-af0d-b9a78fc415fb)
 
-[exemplo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/2f1754fc-6b98-4399-95b9-dddcfa391651)
+
 
 
 3. **Controle e liberdade do usuário:** Os usuários devem ter a capacidade de desfazer ações indesejadas ou errôneas e explorar livremente o sistema sem consequências irreversíveis.
