@@ -43,8 +43,9 @@ O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo e
 2. **Correspondência entre o sistema e o mundo real:** A linguagem utilizada na interface deve refletir os termos, conceitos e processos familiares aos usuários, em vez de usar jargões técnicos ou desconhecidos.
 Para estabelecer essa comunicação, é possível utilizar ícones, por exemplo, que representam uma determinada ação. Como o símbolo de telefone nos smartphones que significa, geralmente, fazer ligações.
 
+
+
 ![exem![exemplo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/2f1754fc-6b98-4399-95b9-dddcfa391651)
-plo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/d4ddf722-3974-42ea-9b77-f6c795f87e03)
 
 
 4. **Controle e liberdade do usuário:** Os usuários devem ter a capacidade de desfazer ações indesejadas ou errôneas e explorar livremente o sistema sem consequências irreversíveis.
