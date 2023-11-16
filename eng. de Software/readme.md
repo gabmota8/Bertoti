@@ -44,6 +44,7 @@ O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo e
 Para estabelecer essa comunicação, é possível utilizar ícones, por exemplo, que representam uma determinada ação. Como o símbolo de telefone nos smartphones que significa, geralmente, fazer ligações.
 
 
+
 ![exemplo+2+heuristicas webp](https://github.com/gabmota8/Bertoti/assets/44507787/fe137407-5806-4cc6-af0d-b9a78fc415fb)
 
 
