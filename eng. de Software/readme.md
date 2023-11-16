@@ -35,23 +35,40 @@ As "10 Heurísticas de Usabilidade" são um conjunto de princípios propostos po
 
 1. **Visibilidade do status do sistema:** O sistema deve manter os usuários informados sobre o que está acontecendo, fornecendo feedback adequado em tempo hábil sobre suas ações e o estado atual.
 
+O Youtube, por exemplo, disponibiliza uma barra lateral informando qual vídeo estamos vendo, quais já foram assistidos e quais são os próximos da lista.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2. **Correspondência entre o sistema e o mundo real:** A linguagem utilizada na interface deve refletir os termos, conceitos e processos familiares aos usuários, em vez de usar jargões técnicos ou desconhecidos.
 
-3. **Controle e liberdade do usuário:** Os usuários devem ter a capacidade de desfazer ações indesejadas ou errôneas e explorar livremente o sistema sem consequências irreversíveis.
+4. **Controle e liberdade do usuário:** Os usuários devem ter a capacidade de desfazer ações indesejadas ou errôneas e explorar livremente o sistema sem consequências irreversíveis.
 
-4. **Consistência e padrões:** Elementos da interface, como cores, ícones e palavras, devem ser consistentes em todo o sistema para criar uma experiência coerente e familiar.
+5. **Consistência e padrões:** Elementos da interface, como cores, ícones e palavras, devem ser consistentes em todo o sistema para criar uma experiência coerente e familiar.
 
-5. **Prevenção de erros:** O design deve ser pensado para evitar erros, seja através de mensagens de confirmação, restrições inteligentes ou guias claras para ações críticas.
+6. **Prevenção de erros:** O design deve ser pensado para evitar erros, seja através de mensagens de confirmação, restrições inteligentes ou guias claras para ações críticas.
 
-6. **Reconhecimento em vez de lembrança:** As informações relevantes devem ser visíveis e disponíveis, evitando a necessidade de os usuários memorizarem detalhes ou informações complexas.
+7. **Reconhecimento em vez de lembrança:** As informações relevantes devem ser visíveis e disponíveis, evitando a necessidade de os usuários memorizarem detalhes ou informações complexas.
 
-7. **Flexibilidade e eficiência de uso:** O sistema deve acomodar tanto os usuários inexperientes quanto os experientes, permitindo atalhos e ações que acelerem o processo para aqueles que estão mais familiarizados.
+8. **Flexibilidade e eficiência de uso:** O sistema deve acomodar tanto os usuários inexperientes quanto os experientes, permitindo atalhos e ações que acelerem o processo para aqueles que estão mais familiarizados.
 
-8. **Estética e design minimalista:** As interfaces devem ser esteticamente agradáveis e livres de elementos desnecessários que possam distrair ou confundir os usuários.
+9. **Estética e design minimalista:** As interfaces devem ser esteticamente agradáveis e livres de elementos desnecessários que possam distrair ou confundir os usuários.
 
-9. **Ajuda e documentação:** Quando necessário, deve haver acesso fácil a informações relevantes para ajudar os usuários a compreender o sistema e solucionar problemas.
+10. **Ajuda e documentação:** Quando necessário, deve haver acesso fácil a informações relevantes para ajudar os usuários a compreender o sistema e solucionar problemas.
 
-10. **Reconhecimento, diagnóstico e recuperação de erros:** Erros devem ser comunicados de forma clara e indicar soluções eficazes para corrigi-los, de modo que os usuários possam entender e superar problemas sem dificuldade.
+11. **Reconhecimento, diagnóstico e recuperação de erros:** Erros devem ser comunicados de forma clara e indicar soluções eficazes para corrigi-los, de modo que os usuários possam entender e superar problemas sem dificuldade.
 
 redija um acerto e erro de cada um dos exemplos das heuristicas
 
