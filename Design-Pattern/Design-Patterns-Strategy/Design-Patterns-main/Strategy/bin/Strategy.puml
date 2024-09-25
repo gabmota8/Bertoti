@@ -1,0 +1,38 @@
+@startuml Strategy
+
+interface Forma {
+    + double calcularArea()
+}
+
+class Triangulo implements Forma {
+    - double base
+    - double altura
+    + Triangulo(double base, double altura)
+    + double calcularArea()
+}
+
+class Retangulo implements Forma {
+    - double largura
+    - double altura
+    + Retangulo(double largura, double altura)
+    + double calcularArea()
+}
+
+class Circulo implements Forma {
+    - double raio
+    + Circulo(double raio)
+    + double calcularArea()
+}
+
+class CalculadoraDeArea {
+    - Forma forma
+    + void setForma(Forma forma)
+    + double calcularArea()
+}
+
+CalculadoraDeArea --> Forma
+Triangulo --> Forma
+Retangulo --> Forma
+Circulo --> Forma
+
+@enduml
