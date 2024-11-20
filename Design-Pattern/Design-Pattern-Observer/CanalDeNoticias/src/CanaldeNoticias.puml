@@ -1,0 +1,29 @@
+@startuml CanalDeNoticias
+interface Observer {
+    +update(String mensagem)
+}
+
+interface Subject {
+    +addObserver(Observer observer)
+    +removeObserver(Observer observer)
+    +notifyObservers()
+}
+
+class ConcreteObserver implements Observer {
+    -nome: String
+    +ConcreteObserver(String nome)
+    +update(String mensagem)
+}
+
+class ConcreteSubject implements Subject {
+    -observers: List<Observer>
+    -mensagem: String
+    +addObserver(Observer observer)
+    +removeObserver(Observer observer)
+    +notifyObservers()
+    +setMensagem(String mensagem)
+}
+
+ConcreteSubject *-- Observer
+ConcreteObserver --|> Observer
+@enduml

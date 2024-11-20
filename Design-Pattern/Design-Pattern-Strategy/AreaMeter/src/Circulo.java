@@ -1,4 +1,4 @@
-class Circulo implements Forma {
+public class Circulo implements Forma {
     private double raio;
 
     public Circulo(double raio) {

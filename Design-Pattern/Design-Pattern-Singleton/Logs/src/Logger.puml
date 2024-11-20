@@ -1,0 +1,11 @@
+@startuml Logger
+class Logger {
+    -static Logger instanciaUnica
+    -Logger()
+    +static Logger getInstancia()
+    +void log(String mensagem)
+}
+
+Logger *-- Logger : getInstancia
+
+@enduml

@@ -1,4 +1,6 @@
-class CalculadoraDeArea {
+
+
+public class CalculadoraDeArea {
     private Forma forma;
 
     public void setForma(Forma forma) {

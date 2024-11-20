@@ -1,0 +1,24 @@
+@startuml CompositeDemo
+
+interface ArquivoComponent {
+    +mostrar()
+}
+
+class Arquivo implements ArquivoComponent {
+    -nome: String
+    +Arquivo(String nome)
+    +mostrar()
+}
+
+class Diretorio implements ArquivoComponent {
+    -nome: String
+    -arquivos: List<ArquivoComponent>
+    +Diretorio(String nome)
+    +adicionar(ArquivoComponent arquivo)
+    +remover(ArquivoComponent arquivo)
+    +mostrar()
+}
+
+Diretorio *-- ArquivoComponent
+Arquivo --|> ArquivoComponent
+@enduml

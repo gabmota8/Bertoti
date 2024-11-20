@@ -1,4 +1,4 @@
-class Retangulo implements Forma {
+public class Retangulo implements Forma {
     private double largura;
     private double altura;
 

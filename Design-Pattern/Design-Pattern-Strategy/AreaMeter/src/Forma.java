@@ -1,3 +1,3 @@
-interface Forma {
+public interface Forma {
     double calcularArea();
 }
