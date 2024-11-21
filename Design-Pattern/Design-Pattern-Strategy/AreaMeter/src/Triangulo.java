@@ -1,4 +1,3 @@
-
 public class Triangulo implements Forma {
     private double base;
     private double altura;

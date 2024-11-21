@@ -7,6 +7,11 @@ public class Circulo implements Forma {
 
     @Override
     public double calcularArea() {
-        return Math.PI * raio * raio;
+        return Math.PI * Math.pow(raio, 2);
+    }
+
+    @Override
+    public double calcularPerimetro() {
+        return 2 * Math.PI * raio;
     }
 }

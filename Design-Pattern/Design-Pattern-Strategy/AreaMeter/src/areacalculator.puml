@@ -1,0 +1,37 @@
+@startuml areacalculator
+interface Forma {
+    + calcularArea(): double
+}
+
+class Retangulo {
+    - largura: double
+    - altura: double
+    + Retangulo(largura: double, altura: double)
+    + calcularArea(): double
+}
+
+class Circulo {
+    - raio: double
+    + Circulo(raio: double)
+    + calcularArea(): double
+}
+
+class Triangulo {
+    - base: double
+    - altura: double
+    + Triangulo(base: double, altura: double)
+    + calcularArea(): double
+}
+
+class CalculadoraDeArea {
+    - forma: Forma
+    + setForma(forma: Forma)
+    + calcularArea(): double
+}
+
+Forma <|.. Retangulo
+Forma <|.. Circulo
+Forma <|.. Triangulo
+CalculadoraDeArea --> Forma
+
+@enduml

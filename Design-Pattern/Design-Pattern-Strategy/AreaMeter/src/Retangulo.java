@@ -1,14 +1,19 @@
 public class Retangulo implements Forma {
+    private double comprimento;
     private double largura;
-    private double altura;
 
-    public Retangulo(double largura, double altura) {
+    public Retangulo(double comprimento, double largura) {
+        this.comprimento = comprimento;
         this.largura = largura;
-        this.altura = altura;
     }
 
     @Override
     public double calcularArea() {
-        return largura * altura;
+        return comprimento * largura;
+    }
+
+    @Override
+    public double calcularPerimetro() {
+        return 2 * (comprimento + largura);
     }
 }

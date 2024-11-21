@@ -11,7 +11,7 @@ public class Main {
         System.out.println("Área do Círculo: " + calculadora.calcularArea());
 
         // Calcular área de um Triângulo
-        calculadora.setForma(new Triangulo(6, 8));
+        calculadora.setForma(new Triangulo(6, 8, 0, 0, 0));
         System.out.println("Área do Triângulo: " + calculadora.calcularArea());
     }
 }
